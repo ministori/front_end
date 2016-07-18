@@ -18,8 +18,10 @@
   margin-bottom:20px;
 }
 
-.container{
-
+.container:after{
+  content:"";
+  display:block;
+  clear:both;
 }
 
 .lnb{
