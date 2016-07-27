@@ -398,9 +398,14 @@ background-position:-97px 0;
   height:200px;
 }
 
+.insta-list-item a{
+  display:block;
+}
+
 .insta-list-item img{
   width:200px;
   height:200px;
+  display:block;
 }
 
 
@@ -410,6 +415,54 @@ background-position:-97px 0;
   clear:both;
 }
 
+.footer{
+  border-top:1px solid #feaf2b;
+  margin-top:150px;
+}
+
+.terms-list-item{
+  float:left;
+  width:20%;
+  text-align:center;
+  line-height:77px;
+}
+
+.aliiance-list{
+  margin-top:22px;
+  text-align:center;
+}
+
+.alliance-list-item{
+  display:inline-block;
+  margin-right:40px;
+}
+
+.footer-logo{
+  margin:48px 0 35px;
+  text-align:center;
+}
+
+.address{
+  text-align:center;
+}
+
+.address-item{
+  display:inline-block;
+  padding-right:15px;
+}
+
+.address-item:last-child{
+  padding-right:0;
+}
+
+.bottom-line{
+  margin-top:10px;
+}
+
+.copyright{
+  text-align:center;
+  margin:20px 0 50px;
+}
 
 
 
