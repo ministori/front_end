@@ -35,6 +35,34 @@
   float:left;
 }
 
+.nav{
+  height:36px;
+  padding:1px;
+  background:#2b3e4f;
+}
+
+.nav-heading{
+  display:none;
+}
+
+.gnb-depth1-item{
+  width:200px;
+  float:left;
+}
+
+.gnb-depth1-link{
+  display:block;
+  height:36px;
+  font-size:14px;
+  color:#fff;
+  text-align:center;
+  line-height:36px;
+}
+
+.gnb-depth1-link:hover{
+  background:#0e68ab;
+}
+
 
 
 
