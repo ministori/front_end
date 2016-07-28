@@ -141,13 +141,12 @@
   height:34px;
 }
 
+/*
 .form-desc{
   color:#ababab;
   font-size:11px;
   font-weight:bold;
   padding-bottom:10px;
-  /*margin-bottom:15px;*/
-  /*border-bottom:1px solid #ddd;*/
   position:relative;
   display:inline-block;
   padding-right:15px;
@@ -164,12 +163,34 @@
   right:0;
 }
 
-
-
 .top-border{
   border-top:1px solid #ddd;
   padding-top:15px;
 }
+
+*/
+
+
+.form-desc{
+  color:#ababab;
+  font-size:11px;
+  font-weight:bold;
+  padding-bottom:10px;
+  margin-bottom:15px;
+  border-bottom:1px solid #ddd;
+}
+
+.form-desc:after{
+  content:"";
+  display:inline-block;
+  width:8px;
+  height:11px;
+  background:url(../images/arrow.gif) no-repeat;
+}
+
+
+
+
 
 .mid-margin-bottom{
   margin-bottom:10px;
