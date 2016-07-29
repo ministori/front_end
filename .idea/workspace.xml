@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="92c34088-af61-4d0e-be9f-f363581e6e13" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/webpage/css/sunmoon.css" afterPath="$PROJECT_DIR$/class/webpage/css/sunmoon.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/webpage/sunmoon.html" afterPath="$PROJECT_DIR$/class/webpage/sunmoon.html" />
     </list>
     <ignored path="front_end.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +32,8 @@
           <file leaf-file-name="sunmoon.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/class/webpage/sunmoon.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.5848624">
-                  <caret line="158" column="0" selection-start-line="158" selection-start-column="0" selection-end-line="158" selection-end-column="0" />
+                <state vertical-scroll-proportion="0.4988532">
+                  <caret line="147" column="43" selection-start-line="147" selection-start-column="43" selection-end-line="147" selection-end-column="43" />
                   <folding>
                     <element signature="n#h1#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                     <element signature="n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -54,8 +55,8 @@
           <file leaf-file-name="sunmoon.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/class/webpage/css/sunmoon.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6863839">
-                  <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+                <state vertical-scroll-proportion="0.61495537">
+                  <caret line="103" column="9" selection-start-line="103" selection-start-column="9" selection-end-line="103" selection-end-column="9" />
                   <folding />
                 </state>
               </provider>
@@ -769,8 +770,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/class/webpage/sunmoon.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5848624">
-          <caret line="158" column="0" selection-start-line="158" selection-start-column="0" selection-end-line="158" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.4988532">
+          <caret line="147" column="43" selection-start-line="147" selection-start-column="43" selection-end-line="147" selection-end-column="43" />
           <folding>
             <element signature="n#h1#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -786,8 +787,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/class/webpage/css/sunmoon.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6863839">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.61495537">
+          <caret line="103" column="9" selection-start-line="103" selection-start-column="9" selection-end-line="103" selection-end-column="9" />
           <folding />
         </state>
       </provider>

@@ -52,10 +52,80 @@
   float:left;
 }
 
-.portal{
+.util-general-item{
   float:left;
+}
+
+.util-general-item:after{
+  content:"";
+  display:inline-block;
+  width:1px;
+  height:7px;
+  background:#4ec6c9;
+  margin-bottom:1px;
+}
+
+.util-general-item:last-child:after{
+  display:none;
+}
+
+.util-general-link{
+  display:inline-block;
+  height:33px;
+  text-align:center;
+  line-height:33px;
+  color:#fff;
+  font-size:11px;
+  padding:0 10px;
+}
+
+.portal-link{
+  float:left;
+  display:block;
+  width:104px;
+  height:33px;
+  background:#237491;
+  color:#fff;
+  text-align:center;
+  line-height:31px;
+  font-weight:bold;
+  font-size:11px;
+  letter-spacing:-1px;
+  box-sizing:border-box;
+  padding-left:20px;
+  position:relative;
+}
+
+.portal-link:after{
+  content:"";
+  display:block;
+  position:absolute;
+  top:8px;
+  left:20px;
+  width:16px;
+  height:16px;
+  background:url(../images/top_portal_icon.gif) no-repeat;
 }
 
 .search{
   float:left;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
