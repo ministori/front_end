@@ -3,7 +3,7 @@
 }
 
 .inner{
-  width:1170px;
+  width:1094px;
   margin:0 auto;
 }
 
@@ -16,4 +16,46 @@
   left:0;
 
   background:#01aeb2;
+}
+
+.util-lang{
+  float:left;
+}
+
+.util-lang-item{
+  height:33px;
+  float:left;
+  border-right:1px solid #4ec6c9;
+}
+
+.util-lang-item:first-child{
+  border-left:1px solid #4ec6c9;
+}
+
+.util-lang-link{
+  display:block;
+  height:33px;
+  text-align:center;
+  line-height:33px;
+  color:#fff;
+  font-size:11px;
+  padding:0 10px;
+}
+
+
+
+.util-right{
+  float:right;
+}
+
+.util-general{
+  float:left;
+}
+
+.portal{
+  float:left;
+}
+
+.search{
+  float:left;
 }
