@@ -5,6 +5,7 @@
 .inner{
   width:1094px;
   margin:0 auto;
+  position:relative;
 }
 
 .util{
@@ -297,6 +298,82 @@
   font-weight:bold;
   margin-bottom:5px;
 }
+
+.footer-top{
+  font-size:11px;
+  border-top:1px solid #ddd;
+  border-bottom:1px solid #ddd;
+}
+
+.footer-top .terms{
+  float:left
+}
+
+.footer-top .terms>li{
+  float:left;
+}
+
+.footer-top .terms>li>a{
+  display:block;
+  padding:12px 10px;
+  font-weight:bold;
+}
+
+.footer-top .terms>li:first-child>a{
+  padding-left:0;
+  color:#237491;
+}
+
+.footer-top .outlink{
+  float:right;
+}
+
+.footer-top .outlink>li{
+  float:left;
+}
+
+.footer-top .outlink>li>a{
+  display:block;
+  padding:12px 10px;
+  font-weight:bold;
+}
+
+.footer-top .outlink>li:last-child>a{
+  padding-right:0;
+}
+
+.footer-bottom{
+  margin:20px 0 30px 0;
+}
+
+.footer-bottom address{
+  margin-bottom:10px;
+}
+
+.footer-bottom address div{
+  color:#666;
+  float:left;
+  margin-right:5px;
+}
+
+.footer-bottom .sns{
+  position:absolute;
+  top:-10px;
+  right:0;
+}
+
+.footer-bottom .sns>li{
+  float:left;
+  margin-right:5px;
+}
+.footer-bottom .sns>li:last-child{
+  margin-right:0;
+}
+
+.footer-bottom .copyright{
+  font-size:10px;
+}
+
 
 
 
