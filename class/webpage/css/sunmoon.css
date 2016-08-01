@@ -206,6 +206,20 @@
   background:#f0f5f6 url(../images/blt_arrow1_2.gif) no-repeat 210px 12px;
 }
 
+.lnb ul li a:hover{
+  color:#0b3c9d;
+}
+
+.lnb ul li a.on{
+  color:#09619e;
+}
+
+.lnb ul li a.on:hover{
+  color:#09619e;
+}
+
+
+
 .contents{
   width:815px;
   float:left;
