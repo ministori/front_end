@@ -10,4 +10,4 @@
 
 'test'
 
-Links(http://www.naver.com)
+[Links](http://www.naver.com)
