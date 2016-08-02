@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92c34088-af61-4d0e-be9f-f363581e6e13" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/webpage/css/sunmoon.css" afterPath="$PROJECT_DIR$/class/webpage/css/sunmoon.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/webpage/sunmoon.html" afterPath="$PROJECT_DIR$/class/webpage/sunmoon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="front_end.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,15 +31,9 @@
           <file leaf-file-name="sunmoon.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/class/webpage/sunmoon.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.43871707">
-                  <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
+                <state vertical-scroll-proportion="2.079038">
+                  <caret line="121" column="17" selection-start-line="121" selection-start-column="17" selection-end-line="121" selection-end-column="17" />
                   <folding>
-                    <element signature="n#ul#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#ul#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#ul#0;n#li#2;n#ul#0;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#ul#0;n#li#3;n#ul#0;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#ul#0;n#li#4;n#ul#0;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#ul#0;n#li#5;n#ul#0;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                     <element signature="n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                     <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                     <element signature="n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -746,15 +738,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/class/webpage/sunmoon.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43871707">
-          <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
+        <state vertical-scroll-proportion="2.079038">
+          <caret line="121" column="17" selection-start-line="121" selection-start-column="17" selection-end-line="121" selection-end-column="17" />
           <folding>
-            <element signature="n#ul#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#li#2;n#ul#0;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#li#3;n#ul#0;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#li#4;n#ul#0;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#li#5;n#ul#0;n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
