@@ -1,11 +1,29 @@
 .header{
   position:relative;
+  padding-top:33px;
+  border-bottom:1px solid #bbb;
+  margin-bottom:1px;
+  z-index:900;
+}
+
+.header>.inner{
+  height:82px;
+}
+
+.logo{
+  position:absolute;
+  top:23px;
+  left:0;
 }
 
 .inner{
   width:1094px;
   margin:0 auto;
   position:relative;
+}
+
+.gnb{
+  float:right;
 }
 
 .util{
