@@ -7,7 +7,8 @@
 }
 
 .header>.inner{
-  height:82px;
+  /*height:82px;*/
+  height:400px;
 }
 
 .logo{
@@ -24,6 +25,27 @@
 
 .gnb{
   float:right;
+}
+
+.gnb-depth1-item{
+  float:left;
+  margin-right:60px;
+}
+
+.gnb-depth1-item:last-child{
+  margin-right:30px;
+}
+
+.gnb-depth1-link{
+  display:block;
+  font-size:17px;
+  padding:32px 0 29px;
+  font-weight:bold;
+}
+
+.gnb-depth1-link:hover,
+.gnb-depth1-link.current{
+  color:#00878d;
 }
 
 .util{
