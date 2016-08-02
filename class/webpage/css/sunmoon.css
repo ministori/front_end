@@ -1,9 +1,11 @@
 .header{
-  position:relative;
+  position:absolute;
+  width:100%;
   padding-top:33px;
   border-bottom:1px solid #bbb;
   margin-bottom:1px;
   z-index:900;
+  background:#fff;
 }
 
 .header>.inner{
@@ -46,6 +48,47 @@
 .gnb-depth1-link:hover,
 .gnb-depth1-link.current{
   color:#00878d;
+}
+
+/* 임시 */
+.gnb-depth3{
+  display:none;
+}
+
+.gnb-depth1-item:nth-child(1) .gnb-depth2,
+.gnb-depth1-item:nth-child(2) .gnb-depth2,
+.gnb-depth1-item:nth-child(3) .gnb-depth2,
+.gnb-depth1-item:nth-child(4) .gnb-depth2,
+.gnb-depth1-item:nth-child(5) .gnb-depth2 {
+  display:none;
+}
+/* 임시 */
+
+.gnb-depth2{
+  position:absolute;
+  top:135px;
+  left:20px;
+}
+
+.gnb-depth2:after{
+  content:"";
+  display:block;
+  clear:both;
+}
+
+.gnb-depth2-item{
+  float:left;
+  margin-right:100px;
+}
+
+.gnb-depth2-item:last-child{
+  margin-right:0;
+}
+
+.gnb-depth2-link{
+  font-size:15px;
+  font-weight:bold;
+  padding:12px 0 8px;
 }
 
 .util{
