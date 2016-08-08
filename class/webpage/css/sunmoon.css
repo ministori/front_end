@@ -1,3 +1,7 @@
+.wrap{
+  overflow:auto;
+}
+
 .header{
   position:absolute;
   width:100%;
@@ -9,8 +13,9 @@
 }
 
 .header>.inner{
-  /*height:82px;*/
-  height:400px;
+  height:82px;
+  /*height:550px;*/
+  overflow:hidden;
 }
 
 .logo{
@@ -51,15 +56,13 @@
 }
 
 /* 임시 */
-.gnb-depth3{
-  display:none;
-}
-
 .gnb-depth1-item:nth-child(1) .gnb-depth2,
 .gnb-depth1-item:nth-child(2) .gnb-depth2,
 .gnb-depth1-item:nth-child(3) .gnb-depth2,
 .gnb-depth1-item:nth-child(4) .gnb-depth2,
-.gnb-depth1-item:nth-child(5) .gnb-depth2 {
+.gnb-depth1-item:nth-child(5) .gnb-depth2
+/*.gnb-depth1-item:nth-child(6) .gnb-depth2*/
+{
   display:none;
 }
 /* 임시 */
@@ -89,6 +92,14 @@
   font-size:15px;
   font-weight:bold;
   padding:12px 0 8px;
+}
+
+.gnb-depth3-item{
+  margin:16px 0;
+}
+
+.gnb-depth3-link{
+  color:#6b6b6b;
 }
 
 .util{
@@ -242,6 +253,7 @@
   height:158px;
   background:url(../images/sub_visual01.jpg) no-repeat 50% 0;
   position:relative;
+  margin-top:117px;
 }
 
 .top-visual h2{
