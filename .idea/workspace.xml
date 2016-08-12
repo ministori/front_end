@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03723342-419e-42d3-964d-7f3977c90ea4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobis/temp.txt" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\btnRow_bu1.png" afterPath="$PROJECT_DIR$/mobis/images/resource/btnRow_bu1.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\famBt_bu.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/famBt_bu.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\footer_bar.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/footer_bar.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\gnbBg.png" afterPath="$PROJECT_DIR$/mobis/images/resource/gnbBg.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\grayTop20x2_bar.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/grayTop20x2_bar.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\logo.png" afterPath="$PROJECT_DIR$/mobis/images/resource/logo.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mBanEasy_bg.jpg" afterPath="$PROJECT_DIR$/mobis/images/resource/mBanEasy_bg.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mBanGreen_bg.jpg" afterPath="$PROJECT_DIR$/mobis/images/resource/mBanGreen_bg.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mBanHappy_bg.jpg" afterPath="$PROJECT_DIR$/mobis/images/resource/mBanHappy_bg.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mBanL_bt.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mBanL_bt.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mBanR_bt.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mBanR_bt.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mBanS0_tit1.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mBanS0_tit1.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mBanS1_tit1.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mBanS1_tit1.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mBanS2_tit1.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mBanS2_tit1.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mBanS3_tit1.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mBanS3_tit1.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mBanSave_bg.jpg" afterPath="$PROJECT_DIR$/mobis/images/resource/mBanSave_bg.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mBanSt0_bt_on.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mBanSt0_bt_on.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mBanSt1_bt_on.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mBanSt1_bt_on.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mBanSt2_bt_on.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mBanSt2_bt_on.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mBanSt3_bt_on.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mBanSt3_bt_on.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mBanSt_bt.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mBanSt_bt.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mBlock0_tit1.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/mBlock0_tit1.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mBlock1_tit1.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/mBlock1_tit1.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mBlock2_tit1.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/mBlock2_tit1.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mBlock3_tit1.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/mBlock3_tit1.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mCsrIcon1.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mCsrIcon1.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mCsrIcon1_on.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mCsrIcon1_on.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mCsrIcon2.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mCsrIcon2.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mCsrIcon2_on.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mCsrIcon2_on.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mCsrIcon3.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mCsrIcon3.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mCsrIcon3_on.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mCsrIcon3_on.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mCsrIcon4.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mCsrIcon4.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mCsrIcon4_on.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mCsrIcon4_on.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mCsrIcon5.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mCsrIcon5.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mCsrIcon5_on.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mCsrIcon5_on.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mCsrIcon6.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mCsrIcon6.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mCsrIcon6_on.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mCsrIcon6_on.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mCsrIcon7.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mCsrIcon7.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mCsrIcon7_on.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mCsrIcon7_on.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mCsrIcon8.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mCsrIcon8.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mCsrIcon8_on.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mCsrIcon8_on.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mCsrIntroBanner.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/mCsrIntroBanner.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mCsrIntroTx.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/mCsrIntroTx.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mCsrIntro_tit.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/mCsrIntro_tit.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mCsr_tit.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mCsr_tit.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mNewsBu.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/mNewsBu.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mNews_tit.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mNews_tit.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mNoti_tit.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/mNoti_tit.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mPhotoEasy_bg.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/mPhotoEasy_bg.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mPhotoGreen_bg.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/mPhotoGreen_bg.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mPhotoHappy_bg.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/mPhotoHappy_bg.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mPhotoSave_bg.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/mPhotoSave_bg.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mPlayBt.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mPlayBt.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mPlayBt_on.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mPlayBt_on.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mRotateL_bt.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mRotateL_bt.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mRotateR_bt.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mRotateR_bt.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mVideoSt0_img.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/mVideoSt0_img.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mVideoSt1_img.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/mVideoSt1_img.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mVideoSt2_img.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/mVideoSt2_img.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mVideoSt3_img.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/mVideoSt3_img.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mVisBt.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mVisBt.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\mVisBt_on.png" afterPath="$PROJECT_DIR$/mobis/images/resource/mVisBt_on.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\menu1.png" afterPath="$PROJECT_DIR$/mobis/images/resource/menu1.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\menu2.png" afterPath="$PROJECT_DIR$/mobis/images/resource/menu2.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\menu3.png" afterPath="$PROJECT_DIR$/mobis/images/resource/menu3.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\menu4.png" afterPath="$PROJECT_DIR$/mobis/images/resource/menu4.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\photoGoTx.png" afterPath="$PROJECT_DIR$/mobis/images/resource/photoGoTx.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\reviewFream0.png" afterPath="$PROJECT_DIR$/mobis/images/resource/reviewFream0.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\reviewFream1.png" afterPath="$PROJECT_DIR$/mobis/images/resource/reviewFream1.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\reviewFream2.png" afterPath="$PROJECT_DIR$/mobis/images/resource/reviewFream2.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\reviewFream3.png" afterPath="$PROJECT_DIR$/mobis/images/resource/reviewFream3.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\rowRollL_bt.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/rowRollL_bt.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\rowRollR_bt.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/rowRollR_bt.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\togetherTx0.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/togetherTx0.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\togetherTx1.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/togetherTx1.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\togetherTx2.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/togetherTx2.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\togetherTx3.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/togetherTx3.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\v0_txt1.png" afterPath="$PROJECT_DIR$/mobis/images/resource/v0_txt1.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\v0_txt2.png" afterPath="$PROJECT_DIR$/mobis/images/resource/v0_txt2.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\v1_txt1.png" afterPath="$PROJECT_DIR$/mobis/images/resource/v1_txt1.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\v1_txt2.png" afterPath="$PROJECT_DIR$/mobis/images/resource/v1_txt2.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\v2_txt1.png" afterPath="$PROJECT_DIR$/mobis/images/resource/v2_txt1.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\v2_txt2.png" afterPath="$PROJECT_DIR$/mobis/images/resource/v2_txt2.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\v3_txt1.png" afterPath="$PROJECT_DIR$/mobis/images/resource/v3_txt1.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\v3_txt2.png" afterPath="$PROJECT_DIR$/mobis/images/resource/v3_txt2.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\vis_txtbg.png" afterPath="$PROJECT_DIR$/mobis/images/resource/vis_txtbg.png" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\visual0.jpg" afterPath="$PROJECT_DIR$/mobis/images/resource/visual0.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\webzineImg.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/webzineImg.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\webzineImg_bg.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/webzineImg_bg.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\webzine_tit.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/webzine_tit.gif" />
+      <change type="MOVED" beforePath="C:\Users\Public\Videos\front_end\mobis\images\무제 폴더\yellow1x15_bar.gif" afterPath="$PROJECT_DIR$/mobis/images/resource/yellow1x15_bar.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobis/html/main.html" afterPath="$PROJECT_DIR$/mobis/html/main.html" />
+    </list>
+    <ignored path="front_end.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="front_end" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mobis/temp.txt" />
+        <option value="$PROJECT_DIR$/mobis/html/main.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front_end" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front_end" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front_end" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front_end" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front_end" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03723342-419e-42d3-964d-7f3977c90ea4" name="Default" comment="" />
+      <created>1470706551960</created>
+      <option name="number" value="Default" />
+      <updated>1470706551960</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973656" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mobis/html/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#1;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#0;n#article#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#section#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#article#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#article#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#article#1;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#article#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#article#1;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#article#2;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobis/html/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#1;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#0;n#article#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#section#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#article#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#article#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#article#1;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#article#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#article#1;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#article#2;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobis/temp.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31772575">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobis/html/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37844038">
+          <caret line="232" column="0" selection-start-line="232" selection-start-column="0" selection-end-line="232" selection-end-column="0" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#1;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#0;n#article#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#section#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#article#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#article#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#article#1;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#article#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#article#1;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#article#2;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
