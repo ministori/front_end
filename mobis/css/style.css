@@ -345,6 +345,7 @@ a{
   padding:35px 36px;
   box-sizing:border-box;
   background:#faef73;
+  position:relative;
 }
 
 .postscript-heading{
@@ -400,6 +401,32 @@ a{
   font-size: 13px;
   color: #666;
   line-height: 18px;
+}
+
+.postscript-paging{
+  width:100%;
+  height:5px;
+  position:absolute;
+  bottom:30px;
+  left:0;
+  text-align:center;
+}
+
+.postscript-paging-item{
+  display:inline-block;
+}
+
+.postscript-paging-link{
+  display:block;
+  width:10px;
+  height:5px;
+  text-indent:-99999em;
+  background:#fff;
+}
+
+.postscript-paging-link.on{
+  width:25px;
+  background:#ebbc00;
 }
 
 .contribution .together{
@@ -618,17 +645,29 @@ a{
 .part-list-item:nth-child(1) .part-list-link{
   background-position:0 -771px;
 }
+.part-list-item:nth-child(1) .part-list-link:hover{
+  background-position:0 -1022px;
+}
 
 .part-list-item:nth-child(2) .part-list-link{
   background-position:-197px -771px;
+}
+.part-list-item:nth-child(2) .part-list-link:hover{
+  background-position:-197px -1022px;
 }
 
 .part-list-item:nth-child(3) .part-list-link{
   background-position:-397px  -771px;
 }
+.part-list-item:nth-child(3) .part-list-link:hover{
+  background-position:-397px  -1022px;
+}
 
 .part-list-item:nth-child(4) .part-list-link{
   background-position:-597px  -771px;
+}
+.part-list-item:nth-child(4) .part-list-link:hover{
+  background-position:-597px  -1022px;
 }
 
 .contribution-part .arrow{
