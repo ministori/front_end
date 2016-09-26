@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9339475e-9cd5-4b03-a084-bb13427bda52" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/basic/_01_variable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/basic/_02_operator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/basic/_03_condition.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/animation/ani.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/font_test/font_test.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/js/basic/_03_condition.html" afterPath="$PROJECT_DIR$/class/js/basic/_03_condition.html" />
     </list>
     <ignored path="front_end.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,8 +36,8 @@
       <file leaf-file-name="_03_condition.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/class/js/basic/_03_condition.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38421956">
-              <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.5900515">
+              <caret line="92" column="16" selection-start-line="92" selection-start-column="16" selection-end-line="92" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -234,7 +229,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1040" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2529297" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -372,8 +367,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/class/js/basic/_03_condition.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38421956">
-          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5900515">
+          <caret line="92" column="16" selection-start-line="92" selection-start-column="16" selection-end-line="92" selection-end-column="16" />
           <folding />
         </state>
       </provider>
