@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+
+    <style>
+        #result{
+            width:200px;
+            height:200px;
+            background:yellow;
+            color:red;
+            font-size:72px;
+            font-weight:bold;
+
+            position:absolute;
+            top:50%;
+            left:50%;
+            margin:-100px 0 0 -100px;
+
+            text-align:center;
+            line-height:200px;
+        }
+    </style>
+
+</head>
+<body id="body">
+
+<div>
+    <span class="start-value">1 부터</span>
+
+    <input type="text" id="end-value" />
+
+    <span>까지의 숫자의 합</span>
+</div>
+
+<div>
+    <button type="button" onclick="sum();">합 구하기</button>
+</div>
+
+</body>
+
+<script>
+
+    function sum(){
+        var a=0;
+        var endValue = document.getElementById('end-value').value;
+
+        for(var i=1; i<=parseInt(endValue); i++){
+            a=a+i;
+        }
+
+        var node = document.createTextNode(a);
+
+        var div = document.createElement('div');
+
+        div.setAttribute('id', 'result');
+
+        div.appendChild(node);
+
+        var element = document.getElementById("body");
+
+        element.appendChild(div);
+    }
+</script>
+
+</html>
