@@ -12,13 +12,13 @@
             for( var i=1; i<=9; i++ ){
                 result = parseInt(dan) * i;
 
-                var node = document.createTextNode(result);
+                var node = document.createTextNode(dan + '*' + i + '=' + result);
 
                 var div = document.createElement('div');
 
                 div.setAttribute('id', 'result');
 
-                div.appendChild('a' + node);
+                div.appendChild(node);
 
                 var element = document.getElementById("result-wrap");
 
