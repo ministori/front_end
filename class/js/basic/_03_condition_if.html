@@ -6,24 +6,28 @@
 
     <style>
         #result{
-            width:200px;
-            height:200px;
+            display:inline-block;
+            padding:50px;
             background:yellow;
             color:red;
             font-size:72px;
             font-weight:bold;
+        }
 
-            position:absolute;
-            top:50%;
-            left:50%;
-            margin:-100px 0 0 -100px;
-
-            text-align:center;
-            line-height:200px;
+        .label{
+            display:inline-block;
+            width:150px;
         }
     </style>
 
     <script>
+
+        /*
+         *
+         * 두 숫자와 연산자를 입력받아 계산하는 함수
+         *
+         */
+
 
 //        var first = window.prompt('첫번째 값을 입력하시오.');
 //        var second = window.prompt('두번째 값을 입력하시오.');
@@ -82,18 +86,69 @@
 
         }
 
-
-
     </script>
 
     <script>
         // 1번 과제
+        function cal2(){
+            var num = document.getElementById('number').value;
+            var result;
+
+            if(num == 1){
+                result = '냉장고 당첨';
+            } else if(num == 2){
+                result = '세탁기 당첨';
+            } else if(num == 3){
+                result = 'TV 당첨';
+            } else {
+                result = '꽝';
+            }
+
+            var node = document.createTextNode(result);
+
+            var div = document.createElement('div');
+
+            div.setAttribute('id', 'result');
+
+            div.appendChild(node);
+
+            var element = document.getElementById("body");
+
+            element.appendChild(div);
+        }
 
     </script>
 
-
     <script>
         // 2번 과제
+        function cal3(){
+            var point = document.getElementById('point').value;
+            var grade;
+
+            if(point >=90){
+                grade = 'A';
+            } else if(point >=80){
+                grade = 'B';
+            } else if(point >=70){
+                grade = 'C';
+            } else if(point >=60){
+                grade = 'D';
+            } else {
+                grade = 'F';
+            }
+
+            var node = document.createTextNode(grade);
+
+            var div = document.createElement('div');
+
+            div.setAttribute('id', 'result');
+
+            div.appendChild(node);
+
+            var element = document.getElementById("body");
+
+            element.appendChild(div);
+        }
 
     </script>
 
@@ -101,19 +156,21 @@
 <body id="body">
 
 <h1>수업</h1>
+<h2>두 숫자와 연산자를 입력받아서 계산하기</h2>
+
 
 <div>
-    <label>첫번째 값 :</label>
+    <label class="label">첫번째 값 :</label>
     <input type="text" id="first" />
 </div>
 
 <div>
-    <label>두번째 값 :</label>
+    <label class="label">두번째 값 :</label>
     <input type="text" id="second" />
 </div>
 
 <div>
-    <label>계산종류(+,-,*,/) :</label>
+    <label class="label">계산종류(+,-,*,/) :</label>
     <input type="text" id="operator" />
 </div>
 
@@ -124,8 +181,31 @@
 <hr /><!-- 수평선 그리기 태그 -->
 <h1>과제 1</h1>
 
+<h2>수를 입력 받아서 1이면 '냉장고 당첨', 2이면 '세탁기 당첨', 3이면 'TV 당첨', 그 외에는 '꽝'을 출력하는 기능 코딩</h2>
+
+<div>
+    <label class="label">번호를 입력하시오.</label>
+    <input type="text" id="number" />
+</div>
+
+<div>
+    <button type="button" onclick="cal2();">당첨</button>
+</div>
+
+
 <hr />
 <h1>과제2</h1>
+
+<h2>0 ~ 100 사이의 점수를 입력받아서 100 ~ 90 이면 A, 89 ~ 80 이면 B, 79 ~ 70 이면 C, 69 ~ 60 이면 D, 59 ~ 이면 F 출력하는 기능 코딩</h2>
+
+<div>
+    <label class="label">점수를 입력하시오.</label>
+    <input type="text" id="point" />
+</div>
+
+<div>
+    <button type="button" onclick="cal3();">학점보기</button>
+</div>
 
 </body>
 </html>
