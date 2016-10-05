@@ -57,6 +57,10 @@
 
             }
 
+            /*
+                document.write(season);
+             */
+
             var node = document.createTextNode(season);
 
             var div = document.createElement('div');
@@ -79,14 +83,32 @@
 
         function oddEven(){
 
-            var point = document.getElementById('point');
+            var point = document.getElementById('point').value;
             var oddEven;
 
+            /*
             if( (parseInt(point) % 2) == 0 ){
                 oddEven = '짝수';
             } else {
                 oddEven = '홀수';
             }
+            */
+
+            switch( parseInt(point) % 2 ){
+
+                case 0:
+                    oddEven = '짝수';
+                    break;
+
+                default:
+                    oddEven = '홀수';
+            }
+
+            /*
+
+                document.write(oddEven);
+
+             */
 
             var node = document.createTextNode(oddEven);
 
