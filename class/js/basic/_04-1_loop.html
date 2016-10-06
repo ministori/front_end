@@ -23,6 +23,30 @@
         }
     </style>
 
+    <script>
+
+        function sum(){
+            var a=0;
+            var endValue = document.getElementById('end-value').value;
+
+            for(var i=1; i<=parseInt(endValue); i++){
+                a=a+i;
+            }
+
+            var node = document.createTextNode(a);
+
+            var div = document.createElement('div');
+
+            div.setAttribute('id', 'result');
+
+            div.appendChild(node);
+
+            var element = document.getElementById("body");
+
+            element.appendChild(div);
+        }
+    </script>
+
 </head>
 <body id="body">
 
@@ -39,29 +63,5 @@
 </div>
 
 </body>
-
-<script>
-
-    function sum(){
-        var a=0;
-        var endValue = document.getElementById('end-value').value;
-
-        for(var i=1; i<=parseInt(endValue); i++){
-            a=a+i;
-        }
-
-        var node = document.createTextNode(a);
-
-        var div = document.createElement('div');
-
-        div.setAttribute('id', 'result');
-
-        div.appendChild(node);
-
-        var element = document.getElementById("body");
-
-        element.appendChild(div);
-    }
-</script>
 
 </html>

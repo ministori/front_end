@@ -12,17 +12,25 @@
             for( var i=1; i<=9; i++ ){
                 result = parseInt(dan) * i;
 
-                var node = document.createTextNode(dan + '*' + i + '=' + result);
+
+                //출력
+                var node = document.createTextNode(dan + ' × ' + i + ' = ' + result);
 
                 var div = document.createElement('div');
 
                 div.setAttribute('id', 'result');
 
-                div.appendChild(node);
+                div.appendChild(node); //=> <div>25</div>
 
                 var element = document.getElementById("result-wrap");
 
                 element.appendChild(div);
+
+                /*
+                    <div id="result">
+                        <div>25</div>
+                    </div>
+                 */
             }
         }
 
