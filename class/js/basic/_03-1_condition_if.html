@@ -1,210 +1,122 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title></title>
 
-    <style>
-        #result{
-            display:inline-block;
-            padding:50px;
-            background:yellow;
-            color:red;
-            font-size:72px;
-            font-weight:bold;
-        }
+  <meta charset="UTF-8">
+  <title></title>
 
-        .label{
-            display:inline-block;
-            width:150px;
-        }
-    </style>
+  <script>
 
-    <script>
+    /**
+     * 두 숫자와 연산자를 입력받아 계산하는 함수
+     */
 
-        /*
-         *
-         * 두 숫자와 연산자를 입력받아 계산하는 함수
-         *
-         */
+    function cal(){
 
+      /*
 
-//        var first = window.prompt('첫번째 값을 입력하시오.');
-//        var second = window.prompt('두번째 값을 입력하시오.');
-//        var operator = window.prompt('계산종류를 입력하시오.(+,-,*,/)');
+       팝업 창에서 입력하는 방식
 
-        function cal(){
-            var first = document.getElementById('first').value;
-            var second = document.getElementById('second').value;
-            var operator = document.getElementById('operator').value;
+       var first = window.prompt('첫번째 값을 입력하시오.');
+       var second = window.prompt('두번째 값을 입력하시오.');
+       var operator = window.prompt('계산종류를 입력하시오.(+,-,*,/)');
 
-            var result = 0;
+       */
 
-            first = parseInt(first);
-            second = parseInt(second);
+      var first = document.getElementById('first').value;
+      var second = document.getElementById('second').value;
+      var operator = document.getElementById('operator').value;
 
-            if( operator == '+' || operator == '1' ){
-                result = first + second;
-            } else if( operator == '-' || operator == '2' ){
-                result = first - second;
-            } else if( operator == '*' || operator == '3' ){
-                result = first * second;
-            } else {
-                result = first / second;
-            }
+      var result = 0;
 
-//            document.write('<p>');
-//            document.write(result);
-//            document.write('</p>');
+      first = parseInt(first);
+      second = parseInt(second);
 
-            // result 결과값을 html 형태로 만들어 줌
-            var node = document.createTextNode(result);
+      if( operator == '+' || operator == '1' ){
+          result = first + second;
+      } else if( operator == '-' || operator == '2' ){
+          result = first - second;
+      } else if( operator == '*' || operator == '3' ){
+          result = first * second;
+      } else {
+          result = first / second;
+      }
 
-            // div 태그 새로 생성
-            var div = document.createElement('div');
+      document.write('<p>');
+      document.write(result);
+      document.write('</p>');
+    }
 
-            // div 태그에 result id 추가
-            div.setAttribute('id', 'result');
+  </script>
 
-            // result 결과값을 새로 생성된 div태그에 넣어줌
-            div.appendChild(node);
+  <script>
 
-            // ==> <div id="result">100</div>
+    /**
+     * 두 숫자를 입력받아 합격 표시하는 함수
+     */
 
-            // id=body 인 태그 영역을 가져옴
-            var element = document.getElementById("body");
+    function cal2(){
 
-            // id=body 인 태그 영역에 생성된 result 결과값을 넣어줌
-            element.appendChild(div);
+      var kor = document.getElementById('kor').value;
+      var eng = document.getElementById('eng').value;
 
-            // ==> <body id="body">
-            //       ...
-            //       <div>
-            //         100
-            //       </div>
-            //     </body>
+      var result = 0;
 
-        }
+      kor = parseInt(kor);
+      eng = parseInt(eng);
 
-    </script>
+      if( kor >= 90 && eng >= 90 ){
+        result = '합격';
+      } else {
+        result = '불합격';
+      }
 
-    <script>
-        // 1번 과제
-        function cal2(){
-            var num = document.getElementById('number').value;
-            var result;
+      document.write('<p>');
+      document.write(result);
+      document.write('</p>');
+    }
 
-            if(num == 1){
-                result = '냉장고 당첨';
-            } else if(num == 2){
-                result = '세탁기 당첨';
-            } else if(num == 3){
-                result = 'TV 당첨';
-            } else {
-                result = '꽝';
-            }
-
-            var node = document.createTextNode(result);
-
-            var div = document.createElement('div');
-
-            div.setAttribute('id', 'result');
-
-            div.appendChild(node);
-
-            var element = document.getElementById("body");
-
-            element.appendChild(div);
-        }
-
-    </script>
-
-    <script>
-        // 2번 과제
-        function cal3(){
-            var point = document.getElementById('point').value;
-            var grade;
-
-            if(point >=90){
-                grade = 'A';
-            } else if(point >=80){
-                grade = 'B';
-            } else if(point >=70){
-                grade = 'C';
-            } else if(point >=60){
-                grade = 'D';
-            } else {
-                grade = 'F';
-            }
-
-            var node = document.createTextNode(grade);
-
-            var div = document.createElement('div');
-
-            div.setAttribute('id', 'result');
-
-            div.appendChild(node);
-
-            var element = document.getElementById("body");
-
-            element.appendChild(div);
-        }
-
-    </script>
+  </script>
 
 </head>
-<body id="body">
+<body>
 
-<h1>수업</h1>
-<h2>두 숫자와 연산자를 입력받아서 계산하기</h2>
-
+<h1>두 숫자와 연산자를 입력받아서 계산하기 - if 단일 조건 예제</h1>
 
 <div>
-    <label class="label">첫번째 값 :</label>
-    <input type="text" id="first" />
+  <label class="label">첫번째 값 :</label>
+  <input type="text" id="first" />
 </div>
 
 <div>
-    <label class="label">두번째 값 :</label>
-    <input type="text" id="second" />
+  <label class="label">두번째 값 :</label>
+  <input type="text" id="second" />
 </div>
 
 <div>
-    <label class="label">계산종류(+,-,*,/) :</label>
-    <input type="text" id="operator" />
+  <label class="label">계산종류(+,-,*,/) :</label>
+  <input type="text" id="operator" />
 </div>
 
 <div>
-    <button type="button" onclick="cal();">계산</button>
+  <button type="button" onclick="cal();">계산</button>
 </div>
 
-<hr /><!-- 수평선 그리기 태그 -->
-<h1>과제 1</h1>
-
-<h2>수를 입력 받아서 1이면 '냉장고 당첨', 2이면 '세탁기 당첨', 3이면 'TV 당첨', 그 외에는 '꽝'을 출력하는 기능 코딩</h2>
+<h1>두 점수를 입력받아 합격/불합격 표시 - if 복합 조건 예제</h1>
+<h3>두 점수 모두 90이상이면 합격 아니면 불합격</h3>
 
 <div>
-    <label class="label">번호를 입력하시오.</label>
-    <input type="text" id="number" />
-</div>
-
-<div>
-    <button type="button" onclick="cal2();">당첨</button>
-</div>
-
-
-<hr />
-<h1>과제2</h1>
-
-<h2>0 ~ 100 사이의 점수를 입력받아서 100 ~ 90 이면 A, 89 ~ 80 이면 B, 79 ~ 70 이면 C, 69 ~ 60 이면 D, 59 ~ 이면 F 출력하는 기능 코딩</h2>
-
-<div>
-    <label class="label">점수를 입력하시오.</label>
-    <input type="text" id="point" />
+  <label class="label">국어 :</label>
+  <input type="text" id="kor" />
 </div>
 
 <div>
-    <button type="button" onclick="cal3();">학점보기</button>
+  <label class="label">영어 :</label>
+  <input type="text" id="eng" />
+</div>
+
+<div>
+  <button type="button" onclick="cal2();">합격확인</button>
 </div>
 
 </body>
