@@ -26,8 +26,11 @@
 
         $(document).ready(function() {
             // 실행 코드
-            // ul.menu 노드중 2번째 메뉴 노드의 border 속성 변경
-            $('ul.menu li').eq(1).css('border', '4px solid #f00');
+            // javascript DOM 과 jquery DOM 비교 출력
+
+            console.log( document.getElementById('samplePage') );
+
+            console.log( $('#samplePage') );
         });
 
     </script>

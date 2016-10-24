@@ -26,16 +26,8 @@
 
         $(document).ready(function() {
             // 실행 코드
-            // this 와 $(this) 비교
-            $('ul.menu li').each(function(index){
-                console.log( this );
-            });
-
-            $('ul.menu li').each(function(index){
-                console.log( $(this) );
-            });
-
-
+            // filter 함수 - div 태그 중 클래스가 content-data 인 노드의 border 속성 변경
+            $('#content').filter('.test1').css('border', '4px solid #f00');
         });
 
     </script>
@@ -47,7 +39,7 @@
     <div id="header">
         헤더 영역(div, id=header)
     </div>
-    <div id="content" class="sample-content">
+    <div id="content" class="sample-content test1">
         노드 찾기(div, id=content, class=sample-content)
         <ul class="menu">
             일반 노드 찾기(ul, class=menu)

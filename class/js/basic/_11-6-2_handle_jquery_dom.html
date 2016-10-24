@@ -26,11 +26,14 @@
 
         $(document).ready(function() {
             // 실행 코드
-            // javascript DOM 과 jquery DOM 비교 출력
+            // jquery DOM에서 javascript DOM 직접 접근
 
-            console.log( document.getElementById('samplePage') );
+            $('ul.menu li').eq(0).css('border', '4px solid #f00');
 
-            console.log( $('#samplePage')[0] );
+
+            $('ul.menu li').get(3).style.border = '4px solid #f00';
+
+
         });
 
     </script>
