@@ -11,6 +11,14 @@
 <div id="box2">box2</div>
 <div id="box3">box3</div>
 
+<div class="wrap">
+    <p class="text1">Hello...</p>
+    <p></p>
+    <div>
+        <p class="text2">How are you...</p>
+    </div>
+</div>
+
 <script>
     /*
     var node1 = document.getElementById('box1');
@@ -49,6 +57,27 @@
             width : 300,
             border : '1px solid #000'
         });
+
+        $('.wrap').css({
+            width : 500,
+            height : 500,
+            border : '5px solid #f00'
+        });
+
+        $('div, p').css({
+            'font-size' : 30,
+            color : 'yellow'
+        });
+
+        $('.wrap .text1').css({
+            color : 'red'
+        });
+
+        $('body > div').css({
+            color : 'green'
+        });
+
+        console.log( $('.text1') );
 
     });
 </script>
