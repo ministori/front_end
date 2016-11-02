@@ -24,13 +24,29 @@
     <script>
 
         $(document).ready(function(){
-            console.log( $('ul.menu').css(['width', 'height']) );
+
+            var size = 11;
+
+            $('.btn').on('click',function(){
+
+                $('ul.menu li').each(function(index){
+
+                    $('ul.menu li').eq(index).css({
+                        'font-size' : size + ( index * 5 )
+                    });
+
+                });
+
+            });
+
         });
 
     </script>
 </head>
 
 <body>
+
+<button type="button" class="btn">실행</button>
 
 <ul class="menu">
     <li>

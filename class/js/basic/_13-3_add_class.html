@@ -25,18 +25,8 @@
 
         $(document).ready(function(){
 
-            var size = 11;
-
-            $('.btn').on('click',function(){
-
-                $('ul.menu li').each(function(index){
-
-                    $('ul.menu li').eq(index).css({
-                        'font-size' : size + ( index * 5 )
-                    });
-
-                });
-
+            $('ul.menu li').on('click', function(){
+                $(this).addClass('select');
             });
 
         });
