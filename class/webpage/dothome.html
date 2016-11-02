@@ -10,17 +10,24 @@
   <script>
     $(function(){
 
-      $('.gnb-depth1-item').on('mouseenter', function(){
+//      $('.gnb-depth1-item').on('mouseenter', function(){
 //        $(this).children('.gnb-depth2').css('display', 'block');
-
-        $(this).children('.gnb-depth2').addClass('on');
-      });
-
-      $('.gnb-depth1-item').on('mouseleave', function(){
+//      });
+//
+//      $('.gnb-depth1-item').on('mouseleave', function(){
 //        $(this).children('.gnb-depth2').css('display', 'none');
+//      });
 
+      $('.gnb-depth1-item').on('click', function(){
 
-        $(this).children('.gnb-depth2').removeClass('on');
+        var $item = $(this);
+
+        if( $item.children('.gnb-depth2').hasClass('on') == true ){
+          $item.children('.gnb-depth2').removeClass('on');
+        } else {
+          $item.children('.gnb-depth2').addClass('on');
+        }
+
       });
 
     });

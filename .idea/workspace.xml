@@ -1,12 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/class/js/image_animation" mnemonic="1" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3ac546a1-3213-48a8-b876-caac526b66d9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/js/basic/_12-4_move_prepend_node.html" afterPath="$PROJECT_DIR$/class/js/basic/_12-4_move_prepend_node.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/js/basic/_13-1_css_value.html" afterPath="$PROJECT_DIR$/class/js/basic/_13-1_css_value.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/js/basic/_13-2_css_apply.html" afterPath="$PROJECT_DIR$/class/js/basic/_13-2_css_apply.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/js/basic/_13-3_add_class.html" afterPath="$PROJECT_DIR$/class/js/basic/_13-3_add_class.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/webpage/css/dothome.css" afterPath="$PROJECT_DIR$/class/webpage/css/dothome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/25.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/26.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/27.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/28.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/29.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/30.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/31.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/32.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/33.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/34.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/35.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/36.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/37.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/38.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/39.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/41.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/42.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/43.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/44.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/45.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/46.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/47.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/48.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/49.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/51.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/52.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/53.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/54.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/55.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/56.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/57.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/58.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/59.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/60.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/images/dslr_body_and_lens_cameras2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/sprite/sprite_car.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/basic/_13-4_remove_class.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/basic/_13-5_has_class.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/basic/_14-1_attr_value.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/image_animation_01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/image_animation_02.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/js/image_animation/image_animation_03.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/webpage/dothome.html" afterPath="$PROJECT_DIR$/class/webpage/dothome.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -28,18 +94,7 @@
     <favorites_list name="front_end" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="_13-3_add_class.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/class/js/basic/_13-3_add_class.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.49940404">
-              <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -95,9 +150,15 @@
         <option value="$PROJECT_DIR$/class/js/basic/_12-4_move_prepend_node.html" />
         <option value="$PROJECT_DIR$/class/js/basic/_13-1_css_value.html" />
         <option value="$PROJECT_DIR$/class/js/basic/_13-2_css_apply.html" />
+        <option value="$PROJECT_DIR$/class/js/basic/_13-3_add_class.html" />
+        <option value="$PROJECT_DIR$/class/js/basic/_13-4_remove_class.html" />
+        <option value="$PROJECT_DIR$/class/js/basic/_13-5_has_class.html" />
         <option value="$PROJECT_DIR$/class/webpage/css/dothome.css" />
         <option value="$PROJECT_DIR$/class/webpage/dothome.html" />
-        <option value="$PROJECT_DIR$/class/js/basic/_13-3_add_class.html" />
+        <option value="$PROJECT_DIR$/class/js/basic/_14-1_attr_value.html" />
+        <option value="$PROJECT_DIR$/class/js/image_animation/image_animation_01.html" />
+        <option value="$PROJECT_DIR$/class/js/image_animation/image_animation_02.html" />
+        <option value="$PROJECT_DIR$/class/js/image_animation/image_animation_03.html" />
       </list>
     </option>
   </component>
@@ -211,7 +272,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="basic" />
+              <option name="myItemId" value="image_animation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -245,13 +306,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\DB405T3A-F08C\Videos\front_end\class\js\basic" />
-      <recent name="C:\Users\DB405T3A-F08C\Videos\front_end\class\js\temp" />
-      <recent name="C:\Users\DB405T3A-F08C\Videos\front_end\class\js\images" />
+      <recent name="C:\Users\DB405T3A-F08C\Videos\front_end\class\js\image_animation" />
+      <recent name="C:\Users\DB405T3A-F08C\Videos\front_end\class\js\image_animation\sprite" />
       <recent name="C:\Users\DB405T3A-F08C\Videos\front_end\class\js" />
-      <recent name="$PROJECT_DIR$/class/js/basic" />
+      <recent name="C:\Users\DB405T3A-F08C\Videos\front_end\class\js\images" />
+      <recent name="C:\Users\DB405T3A-F08C\Videos\front_end\class\js\basic" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DB405T3A-F08C\Videos\front_end\class\js\image_animation" />
       <recent name="C:\Users\DB405T3A-F08C\Videos\front_end\class\js\lib" />
     </key>
   </component>
@@ -312,24 +374,24 @@
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.259375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37265626" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988626" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -348,70 +410,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/class/js/basic/_13-3_add_class.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/js/basic/_12-3_append_node.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/js/basic/_12-4_move_prepend_node.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/js/basic/_11-11_index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/js/basic/_01_variable.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-38.75">
-          <caret line="62" column="11" selection-start-line="62" selection-start-column="11" selection-end-line="62" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/js/basic/_02_operator.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.0">
-          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/js/basic/_03-3_condition_if_homework_02_calculator.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0010928962">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/js/basic/_04-1_condition_switch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-33.125">
-          <caret line="53" column="15" selection-start-line="53" selection-start-column="15" selection-end-line="53" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/js/basic/_04-2_condition_switch_homework.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13114753">
-          <caret line="65" column="11" selection-start-line="65" selection-start-column="11" selection-end-line="65" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/class/js/basic/_07-1_function.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.18032786">
@@ -594,13 +592,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class/webpage/js/gnb.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08690614">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/ver_20151015_jsjq2/04부_jQuery_기초와활용/04장_노드생성_추가_삭제_이동/lesson01_노드생성추가/02_ing/01_00_핵심01_예제01_노드생성_풀이전코드.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.24910608">
@@ -633,6 +624,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -640,6 +632,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.4583335">
           <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -647,6 +640,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.31346843">
           <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -654,6 +648,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.66150177">
           <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -661,6 +656,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.66626936">
           <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -668,6 +664,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.86412394">
           <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -675,27 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5005959">
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/webpage/dothome.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.923077">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/webpage/css/dothome.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.85168016">
-          <caret line="88" column="16" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/js/basic/_13-2_css_apply.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15256257">
-          <caret line="31" column="53" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="53" />
           <folding />
         </state>
       </provider>
@@ -704,6 +680,109 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.49940404">
           <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/js/basic/_13-2_css_apply.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15733016">
+          <caret line="31" column="53" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/js/basic/_13-4_remove_class.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.708333">
+          <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/js/basic/_13-5_has_class.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.375">
+          <caret line="37" column="48" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/webpage/js/gnb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08690614">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/webpage/dothome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8510131">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/webpage/css/dothome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59096175">
+          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/js/basic/_14-1_attr_value.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64243144">
+          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/js/image_animation/sprite/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/js/basic/_01_variable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.7083333">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/js/basic/_02_operator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4648391">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/js/image_animation/image_animation_02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38021454">
+          <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+          <folding>
+            <element signature="e#1485#1666#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/js/image_animation/image_animation_01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58164483">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/js/image_animation/image_animation_03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35637665">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
           <folding />
         </state>
       </provider>
