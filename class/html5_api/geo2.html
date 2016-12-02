@@ -3,15 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <title></title>
+    <script src="jquery-3.1.1.js"></script>
 
     <script>
 
         window.onload = function(){
             if( navigator.geolocation ){
 
-                navigator.geolocation.getCurrentPosition(function(position){
+                navigator.geolocation.watchPosition(function(position){
 
-                    console.log( position );
+                    var printPosition = '<div> 위도 : ' + position.coords.latitude;
+                    printPosition += ' 경도 : ' + position.coords.longitude; + '</div>';
+
+                    $('body').append(printPosition);
 
                 });
 
