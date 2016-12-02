@@ -35,51 +35,38 @@
     <script>
         $(function(){
 
-            $('.btn-show').on('click', function(){
-                $('.box.show').show();
-                $('.box.hide').hide();
-                $('.box.show-ani').show('slow');
-                $('.box.hide-ani').hide(1000);
-            });
+            function boxUp( $box ){
 
-            $('.btn-fade').on('click', function(){
-                $('.box.fadein').fadeIn(1000);
-                $('.box.fadeout').fadeOut(1000);
-            });
+                var boxHeight = $box.height();
+
+                $box
+                        .css({
+                            overflow:'hidden'
+                        })
+                        .animate({
+
+                            height : 0
+
+                        }, 1000, function(){
+
+                            $(this).css({
+                                display:'none'
+                            });
+
+                        });
+
+            }
 
             $('.btn-slide').on('click', function(){
-                $('.box.up').slideUp(1000);
-                $('.box.down').slideDown(1000);
+
+                boxUp( $('.box.up') );
+
             });
 
         });
     </script>
 </head>
 <body>
-
-<div class="wrap">
-
-    <div class="box-wrap">
-        <div class="box show">show</div>
-        <div class="box hide">hide</div>
-        <div class="box show-ani">show</div>
-        <div class="box hide-ani">hide</div>
-    </div>
-
-    <button type="button" class="btn-show">start</button>
-
-</div>
-
-<div class="wrap">
-
-    <div class="box-wrap">
-        <div class="box fadein">fade in</div>
-        <div class="box fadeout">fade out</div>
-    </div>
-
-    <button type="button" class="btn-fade">start</button>
-
-</div>
 
 <div class="wrap">
 
